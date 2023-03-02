@@ -1,2 +1,2 @@
 # Parkinson-s-Disease-Detection-using-Machine-Learning
-ML approach to detect Parkinson's disease.
+ The data was obtained from UCI Machine Learning Repository.
