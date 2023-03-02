@@ -1,7 +1,7 @@
 # Parkinson-s-Disease-Detection-using-Machine-Learning
 This project is a ML approach to detect Parkinson's Disease.
 
-The data was obtained from [UCI Machine Learning Repository] (https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet). 
+The data was obtained from [[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet)] 
 
 The dataset consists of 62 PWP(People with Parkinson) and 15 healthy individuals. Three types of recordings (Static Spiral Test, Dynamic Spiral Test and Stability Test) are taken.
 
